@@ -108,7 +108,18 @@
       "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
       "gender": "Male",
       "avatar": "https://robohash.org/estipsamalias.png?size=150x150&set=set1"
-    }
+    },
+    {
+      "id": 11,
+      "name": "Minh Hoàng",
+      "email": "phamminhhoang0304@gmail.com",
+      "password": "tarboine9",
+      "phone": "032-697-9486",
+      "birthday": "03/04/1996",
+      "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "gender": "Male",
+      "avatar": "https://robohash.org/estipsamalias.png?size=150x150&set=set1"
+  }
   ],
   "products": [
     {
